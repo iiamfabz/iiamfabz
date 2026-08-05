@@ -249,44 +249,26 @@ Puedes agregar dentro de cada proyecto:
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=iiamfabz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiamfabz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-<br>
-
-<img
   width="70%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=iiamfabz&theme=tokyonight&hide_border=true&locale=es"
+  alt="Racha de contribuciones de Fabri"
 />
 
 </div>
 
 <br>
 
-## 🐍 Actividad y contribuciones
+## 📊 Actividad reciente
 
 <div align="center">
 
-<!--
-Para activar esta animación necesitarás crear un GitHub Action.
-Mientras tanto, puedes dejarla comentada o usar una imagen propia.
-
-<img
-  src="https://raw.githubusercontent.com/iiamfabz/iiamfabz/output/github-contribution-grid-snake-dark.svg"
-  alt="Animación de contribuciones"
-/>
--->
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiamfabz&theme=tokyonight"
-  width="95%"
-/>
+<a href="https://github.com/iiamfabz">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iiamfabz&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de actividad de Fabri"
+  />
+</a>
 
 </div>
 
