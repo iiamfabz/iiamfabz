@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:22D3EE&height=210&section=header&text=Fabri&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20%7C%20Automatización%20%7C%20IA%20aplicada%20a%20negocios&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:22D3EE&height=210&section=header&text=Fabricio%20Carreño&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20%7C%20Automatización%20%7C%20IA%20aplicada%20a%20negocios&descAlignY=60&animation=fadeIn"
 />
 
 <a href="https://github.com/iiamfabz">
@@ -77,13 +77,19 @@ Inteligencia artificial aplicada
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🦷 CAMUR
+<!-- COLUMNA IZQUIERDA: CAMUR OCUPA TRES FILAS -->
+<td width="50%" rowspan="3" valign="top">
 
-Sistema digital para una clínica odontológica especializada en implantes dentales.
+### 🦷 CAMUR — En desarrollo
 
-**Objetivo:** captar, filtrar y organizar pacientes de alto valor mediante una landing page, campañas, WhatsApp y automatización.
+> 🚧 Proyecto en desarrollo
+
+Proyecto de captación digital para una clínica odontológica especializada en implantes dentales.
+
+**Estado actual:** landing page desarrollada y diseño del flujo de atención. La automatización por WhatsApp, la clasificación de leads y el agendamiento todavía se encuentran en implementación.
+
+**Objetivo:** captar, filtrar y organizar pacientes interesados en tratamientos de alto valor.
 
 **Tecnologías:**
 
@@ -91,52 +97,13 @@ Sistema digital para una clínica odontológica especializada en implantes denta
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_proyecto-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/iiamfabz/Camur">
+  <img src="https://img.shields.io/badge/PROYECTO_EN_DESARROLLO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-### 👟 Automatización para tiendas
-
-Investigación y diseño de una solución para negocios de calzado que administran inventario, tallas, ventas y consultas por WhatsApp.
-
-**Objetivo:** reducir errores operativos y organizar procesos repetitivos.
-
-**Tecnologías:**
-
-`AppSheet` `Google Sheets` `WhatsApp` `Automatización` `User Research`
-
-<br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_proyecto-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Clasificación de riesgo cervical
-
-Proyecto académico de Machine Learning con un dataset desbalanceado de factores de riesgo de cáncer cervical.
-
-**Trabajo realizado:** limpieza de datos, prevención de data leakage, SMOTE y comparación de modelos.
-
-**Tecnologías:**
-
-`Python` `Pandas` `Scikit-learn` `SMOTE` `SVM`
-
-<br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_repositorio-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
+<!-- COLUMNA DERECHA ARRIBA: HOTEL PYRAMIDE -->
 <td width="50%" valign="top">
 
 ### 🏨 Sistema de inventario — Hotel Pyramide
@@ -151,8 +118,52 @@ Aplicación web desarrollada para reemplazar el control manual de insumos realiz
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_repositorio-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
+<a href="https://github.com/loyolajuan/G2-SistemaGestionInventario.git">
+  <img src="https://img.shields.io/badge/VER_REPOSITORIO-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<!-- COLUMNA DERECHA CENTRO: AUTOMATIZACIÓN PARA TIENDAS -->
+<td width="50%" valign="top">
+
+### 👟 Automatización para tiendas
+
+Investigación y diseño de una solución para negocios de calzado que administran inventario, tallas, ventas y consultas por WhatsApp.
+
+**Objetivo:** reducir errores operativos, mejorar el control de stock y organizar procesos repetitivos de atención y venta.
+
+**Tecnologías:**
+
+`AppSheet` `Google Sheets` `WhatsApp` `Automatización` `User Research`
+
+<br>
+
+</td>
+</tr>
+
+<tr>
+
+<!-- COLUMNA DERECHA ABAJO: RIESGO CERVICAL -->
+<td width="50%" valign="top">
+
+### 🧬 Clasificación de riesgo cervical
+
+Proyecto académico de Machine Learning con un dataset desbalanceado de factores de riesgo de cáncer cervical.
+
+**Trabajo realizado:** limpieza y preparación de datos, prevención de data leakage, balanceo mediante SMOTE y comparación de modelos de clasificación.
+
+**Tecnologías:**
+
+`Python` `Pandas` `Scikit-learn` `SMOTE` `SVM`
+
+<br>
+
+<a href="https://github.com/iiamfabz/cervical-cancer-risk-classification">
+  <img src="https://img.shields.io/badge/VER_REPOSITORIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -264,11 +275,11 @@ Mientras tanto, puedes dejarla comentada o usar una imagen propia.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/fabriciocarreno/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:fabriziocarrenno@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
