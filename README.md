@@ -28,17 +28,9 @@ Me interesa conectar **tecnología, automatización, inteligencia artificial y e
 
 <br>
 
-<!--
-FOTO OPCIONAL
-
-1. Crea una carpeta llamada assets dentro del repositorio.
-2. Sube una imagen con el nombre perfil.png.
-3. Elimina los comentarios de la siguiente línea:
-
 <p align="center">
   <img width="220" src="./assets/perfil.png" alt="Fotografía de Fabri"/>
 </p>
--->
 
 ---
 
@@ -77,48 +69,68 @@ Inteligencia artificial aplicada
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<!-- COLUMNA IZQUIERDA: CAMUR OCUPA TRES FILAS -->
-<td width="50%" rowspan="3" valign="top">
+<h3>🦷 CAMUR — En desarrollo</h3>
 
-### 🦷 CAMUR — En desarrollo
+<blockquote>🚧 Proyecto en desarrollo</blockquote>
 
-> 🚧 Proyecto en desarrollo
+<p>
+Proyecto de captación digital para una clínica odontológica especializada
+en implantes dentales.
+</p>
 
-Proyecto de captación digital para una clínica odontológica especializada en implantes dentales.
+<p>
+<strong>Estado actual:</strong> landing page desarrollada y diseño del flujo
+de atención. La automatización por WhatsApp, clasificación de leads y
+agendamiento todavía se encuentran en implementación.
+</p>
 
-**Estado actual:** landing page desarrollada y diseño del flujo de atención. La automatización por WhatsApp, la clasificación de leads y el agendamiento todavía se encuentran en implementación.
+<p><strong>Tecnologías:</strong></p>
 
-**Objetivo:** captar, filtrar y organizar pacientes interesados en tratamientos de alto valor.
+<code>Cloudflare Pages</code>
+<code>GitHub</code>
+<code>n8n</code>
+<code>WhatsApp API</code>
+<code>Google Sheets</code>
 
-**Tecnologías:**
+<br><br>
 
-`Cloudflare Pages` `GitHub` `n8n` `WhatsApp API` `Google Sheets`
-
-<br>
-
-<a href="https://github.com/iiamfabz/Camur">
+<a href="ENLACE_REPOSITORIO_CAMUR">
   <img src="https://img.shields.io/badge/PROYECTO_EN_DESARROLLO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<!-- COLUMNA DERECHA ARRIBA: HOTEL PYRAMIDE -->
 <td width="50%" valign="top">
 
-### 🏨 Sistema de inventario — Hotel Pyramide
+<h3>🏨 Sistema de inventario — Hotel Pyramide</h3>
 
-Aplicación web desarrollada para reemplazar el control manual de insumos realizado con hojas de cálculo y papel.
+<p>
+Aplicación web desarrollada para reemplazar el control manual de insumos
+realizado con hojas de cálculo y papel.
+</p>
 
-**Trabajo realizado:** autenticación por roles, gestión de productos y entradas, distribución de insumos a housekeeping, consulta de stock, alertas de stock mínimo y reportes de consumo.
+<p>
+<strong>Trabajo realizado:</strong> autenticación por roles, gestión de
+productos y entradas, distribución de insumos a housekeeping, consulta de
+stock, alertas de stock mínimo y reportes de consumo.
+</p>
 
-**Tecnologías:**
+<p><strong>Tecnologías:</strong></p>
 
-`React` `Spring Boot` `Java` `MySQL` `REST API` `JWT` `Axios` `Vite`
+<code>React</code>
+<code>Spring Boot</code>
+<code>Java</code>
+<code>MySQL</code>
+<code>REST API</code>
+<code>JWT</code>
+<code>Axios</code>
+<code>Vite</code>
 
-<br>
+<br><br>
 
-<a href="https://github.com/loyolajuan/G2-SistemaGestionInventario.git">
+<a href="ENLACE_REPOSITORIO_HOTEL">
   <img src="https://img.shields.io/badge/VER_REPOSITORIO-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
@@ -126,44 +138,63 @@ Aplicación web desarrollada para reemplazar el control manual de insumos realiz
 </tr>
 
 <tr>
-
-<!-- COLUMNA DERECHA CENTRO: AUTOMATIZACIÓN PARA TIENDAS -->
 <td width="50%" valign="top">
 
-### 👟 Automatización para tiendas
+<h3>🧬 Clasificación de riesgo cervical</h3>
 
-Investigación y diseño de una solución para negocios de calzado que administran inventario, tallas, ventas y consultas por WhatsApp.
+<p>
+Proyecto académico de Machine Learning con un dataset desbalanceado de
+factores de riesgo de cáncer cervical.
+</p>
 
-**Objetivo:** reducir errores operativos, mejorar el control de stock y organizar procesos repetitivos de atención y venta.
+<p>
+<strong>Trabajo realizado:</strong> limpieza y preparación de datos,
+prevención de data leakage, balanceo mediante SMOTE y comparación de
+modelos de clasificación.
+</p>
 
-**Tecnologías:**
+<p><strong>Tecnologías:</strong></p>
 
-`AppSheet` `Google Sheets` `WhatsApp` `Automatización` `User Research`
+<code>Python</code>
+<code>Pandas</code>
+<code>Scikit-learn</code>
+<code>SMOTE</code>
+<code>SVM</code>
 
-<br>
-
-</td>
-</tr>
-
-<tr>
-
-<!-- COLUMNA DERECHA ABAJO: RIESGO CERVICAL -->
-<td width="50%" valign="top">
-
-### 🧬 Clasificación de riesgo cervical
-
-Proyecto académico de Machine Learning con un dataset desbalanceado de factores de riesgo de cáncer cervical.
-
-**Trabajo realizado:** limpieza y preparación de datos, prevención de data leakage, balanceo mediante SMOTE y comparación de modelos de clasificación.
-
-**Tecnologías:**
-
-`Python` `Pandas` `Scikit-learn` `SMOTE` `SVM`
-
-<br>
+<br><br>
 
 <a href="https://github.com/iiamfabz/cervical-cancer-risk-classification">
   <img src="https://img.shields.io/badge/VER_REPOSITORIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👟 Automatización para tiendas</h3>
+
+<p>
+Investigación y diseño de una solución para negocios de calzado que
+administran inventario, tallas, ventas y consultas por WhatsApp.
+</p>
+
+<p>
+<strong>Objetivo:</strong> reducir errores operativos, mejorar el control
+de stock y organizar procesos repetitivos de atención y venta.
+</p>
+
+<p><strong>Tecnologías:</strong></p>
+
+<code>AppSheet</code>
+<code>Google Sheets</code>
+<code>WhatsApp</code>
+<code>Automatización</code>
+<code>User Research</code>
+
+<br><br>
+
+<a href="ENLACE_REPOSITORIO_TIENDAS">
+  <img src="https://img.shields.io/badge/PROYECTO_EN_INVESTIGACIÓN-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
 </td>
