@@ -337,7 +337,9 @@ Puedes agregar dentro de cada proyecto:
 <a href="mailto:fabriziocarrenno@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="mailto:20230604@aloe.ulima.edu.pe">
+  <img src="https://img.shields.io/badge/Correo_universitario-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 <a href="https://github.com/iiamfabz">
   <img src="https://img.shields.io/badge/GitHub-iiamfabz-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
