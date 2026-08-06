@@ -96,7 +96,7 @@ agendamiento todavía se encuentran en implementación.
 
 <br><br>
 
-<a href="ENLACE_REPOSITORIO_CAMUR">
+<a href="https://github.com/iiamfabz/Camur.git">
   <img src="https://img.shields.io/badge/PROYECTO_EN_DESARROLLO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -130,7 +130,7 @@ stock, alertas de stock mínimo y reportes de consumo.
 
 <br><br>
 
-<a href="ENLACE_REPOSITORIO_HOTEL">
+<a href="https://github.com/loyolajuan/G2-SistemaGestionInventario.git">
   <img src="https://img.shields.io/badge/VER_REPOSITORIO-22D3EE?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
@@ -163,7 +163,7 @@ modelos de clasificación.
 
 <br><br>
 
-<a href="https://github.com/iiamfabz/cervical-cancer-risk-classification">
+<a href="https://github.com/iiamfabz/cervical-cancer-risk-ml.git">
   <img src="https://img.shields.io/badge/VER_REPOSITORIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
