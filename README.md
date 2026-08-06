@@ -199,6 +199,48 @@ de stock y organizar procesos repetitivos de atención y venta.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+<h3>📂 Sistema de gestión de trámites</h3>
+
+<p>
+Aplicación de escritorio desarrollada en Java para gestionar expedientes
+dentro de una institución, desde su registro hasta la finalización del trámite.
+</p>
+
+<p>
+<strong>Trabajo realizado:</strong> implementación de la gestión de movimientos,
+autenticación de administradores, lógica central del sistema, derivación y
+finalización de expedientes, validación de datos y conexión entre la lógica
+del sistema y las interfaces gráficas.
+</p>
+
+<p>
+El sistema permite registrar expedientes, asignar prioridades, consultar su
+estado, registrar derivaciones entre dependencias, revisar el historial de
+movimientos y generar alertas por prioridad o antigüedad.
+</p>
+
+<p><strong>Estructuras y tecnologías:</strong></p>
+
+<code>Java</code>
+<code>Java Swing</code>
+<code>NetBeans</code>
+<code>POO</code>
+<code>Listas enlazadas</code>
+<code>Colas FIFO</code>
+<code>Pilas LIFO</code>
+
+<br><br>
+
+<a href="https://github.com/iiamfabz/Sistema-de-tramites-Ulima">
+  <img src="https://img.shields.io/badge/VER_REPOSITORIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <!--
